@@ -1,0 +1,20 @@
+
+GSPSet
+0.011: <index2addr()>  <index2addr()>  
+0.012: <luaL_argerror()>  <lua_pushinteger()>  
+0.012: <luaL_buffinit()>  <luaL_pushresult()>  
+0.012: <luaL_checkinteger()>  <luaL_argerror()>  
+0.011: <luaL_checktype()>  <lua_settop()>  
+0.011: <luaL_error()>  <luaL_error()>  
+0.015: <lua_getfield()>  <lua_settop()>  
+0.011: <lua_pushstring()>  <lua_setfield()>  
+0.011: <lua_pushstring()>  <lua_settop()>  
+0.016: <lua_pushvalue()>  <lua_setfield()>  
+0.012: <lua_pushvalue()>  <lua_settop()>  
+0.011: <lua_settop()>  <lua_pushstring()>  
+0.011: <lua_settop()>  <lua_pushvalue()>  
+0.012: <lua_settop()>  <lua_settop()>  
+0.015: <lua_type()>  <luaL_argerror()>  
+0.011: <lua_type()>  <lua_pushnil()>  
+0.012: <lua_type()>  <lua_pushvalue()>  
+0.019: <lua_type()>  <lua_settop()>  

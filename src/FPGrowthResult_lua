@@ -1,0 +1,7 @@
+
+AssociationRules
+Association Rules
+[luaL_pushresult() = T] --> [luaL_buffinit() = T] (confidence: 0.900)
+[luaL_buffinit() = T] --> [luaL_pushresult() = T] (confidence: 0.900)
+[lua_type() = T, luaL_checktype() = T] --> [lua_settop() = T] (confidence: 1.000)
+[lua_settop() = T, lua_setfield() = T] --> [lua_pushvalue() = T] (confidence: 1.000)
